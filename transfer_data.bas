@@ -1,7 +1,7 @@
 'Created By Jake Ayoub 6/3/2021
 'Updated 6/4/2021
 
-Sub polish_data()
+Sub migrate_data()
 
     Dim new_sheet As String
        
